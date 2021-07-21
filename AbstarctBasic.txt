@@ -1,0 +1,9 @@
+/*Abstract method - It is compulsory to overwrite in abstract method .
+ An abstract method can not static and final method
+ abstract keyword can be used with method declaration and class declaration.
+ An abstarct method is an method without any body contain -> it means declaration of method without defination.
+ To hold an abstract method abstract class is required.
+ It is compulsory that abstract method should be inside abstract class but all method should be abstract is not compuslory.
+ If non abstract class is inherit an abstract class then it will be compulsory for chlid class to overweite all abstract methods of parent class
+ We can't create object of abstract class but we can create reference of abstract calss.
+*/
