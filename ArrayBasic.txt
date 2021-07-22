@@ -1,0 +1,22 @@
+/*
+ It is collection of similar type of elements.
+ 
+ int[10]; is not vaild in JAVA ,but valaid in c/c++
+ 
+ Three are two ways to declare an array
+ int a[]=new int[10];
+ int a[]={10,20,30,40,50};
+ 
+ int a[] -> this component is treated as a reference.
+ 
+ int a[]; both are vaild
+ int []a;
+ 
+ int a[],b,c[],d;
+ In first line,a & e are array but b & d are variable.
+ 
+ int []a,b,c,d;
+ In second line  a,b,c,d all are array.
+ Subscript after the name of array , declare only for one name.
+ 
+ */
