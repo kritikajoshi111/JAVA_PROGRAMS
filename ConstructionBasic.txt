@@ -1,0 +1,25 @@
+/*
+ * Constructor is a special member method of a class . It is called special because:-
+ *-> name of the construction will always be same as the class name .
+ * 
+ *-> It does not have any return type (not even void) and we can not return anything from it.
+ * 
+ * -> There are three types of constructor
+ * 	a)Default constructor ( no arguments)
+ * 	b)Parametrised constructor
+ * 	c)Copy construction
+ * 
+ *-> If we do not have any constructor in our class then complier will generate a default constructor itself.
+ *
+ *-> There is no need to call a constructor explicitly(external) 
+ *   it will be called implicitly(automatically) wherever object of the class will be created .
+ *   
+ *-> We can not inherit constructor .
+ * 
+ *-> We can call a construction by using new operator
+ *
+ */
+public class ConstructionBasic 
+{
+
+}
