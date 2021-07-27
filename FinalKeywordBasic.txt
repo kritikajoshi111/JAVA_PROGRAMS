@@ -1,0 +1,14 @@
+/*
+ * Final keyword can be used with variable declaration , method declaration and class declaration.
+ * 
+ * If a variable is declare as final that it will be treated as constant component and its value will remain unchanged throughout the program after its initiation.
+ * 
+ * A final variable can be initialization only once in a program either on the declaration statement or inside the constructor,and after that changes are not accepted from th value.
+ * 
+ * If a final value is declare as static then it should be initialized either on the declaration statement or inside the static block.
+ * 
+ * IF a method is declare as final then we cannot overwrite this method and if a class is declare as final then we can not inherit the class.
+ */
+public class FinalKeywordBasic {
+
+}
